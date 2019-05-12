@@ -1,0 +1,105 @@
+/* CSS Document */
+
+#one{
+	margin-left: 200px;
+}
+
+#two{
+	background-color: black;
+	height: 60px;
+	width:900px;
+	margin-left: 200px;
+	margin-right: 150px
+}
+
+#three{
+	background-color: black;
+	width: 900px;
+	height: 450px;
+	margin-right: 150px;
+	margin-left: 200px;
+	margin-top: 5px;
+
+}
+
+
+#four{
+	text-align: center;
+
+}
+#five{
+	margin-right: 150px;
+	margin-left: 200px;
+}
+
+#textone{
+	height: 500px;
+	width: 580px;
+	margin-left: 15px;
+	margin-top: 20px;
+
+	float: left;
+}
+
+#texttwo{
+	height: 800px;
+	width: 270px;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+
+#two ul{
+	padding-top: 20px;
+	text-decoration: none;
+
+}
+
+p#pp{
+	color: rgb(255,0,128);
+	margin-top: 40px;
+	margin-left: 40px;
+
+}
+
+
+#textone ul{
+	color: white;
+}
+
+
+
+
+ul{
+	list-style: circle;
+}
+
+ ul li{
+	list-style: circle;
+	padding: 15px 0px 4px 25px;
+}
+
+#two ul li{
+
+	list-style: none;
+	display: inline;
+	padding: 20px;
+	margin-top: 15px;
+	padding-top: 20px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+#texttwo a{
+	text-decoration: underline;
+}
+
+
+
+
